@@ -1,0 +1,21 @@
+{
+  "Target_Output_Filename": "LG_audited_final_fixed.xlsm",
+  "Source_Filename": "LG_corrected.xlsm",
+  "Total_Source_Rows": 2205,
+  "Total_Checkpoint_Records": 2198,
+  "Total_Corrections_Applied": 4628,
+  "Corrections_By_Field": {
+    "Raw_text": 278,
+    "Rating": 0,
+    "Review_date": 1934,
+    "Reply_date": 1212,
+    "Support_reply": 1204
+  },
+  "Checkpoint_To_Workbook_Mismatches": 0,
+  "Unintended_URL_Changes": 0,
+  "Unintended_Order_Date_Changes": 0,
+  "Unintended_Untouched_Cell_Changes": 0,
+  "Duplicate_Checkpoint_Records": 0,
+  "Missing_Or_Ambiguous_Row_Mappings": 0,
+  "Rebuild_Status": "SUCCESS"
+}
