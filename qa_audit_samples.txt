@@ -1,0 +1,299 @@
+V2 QA AUDIT SAMPLES
+======================================================================
+
+
+RECOVERED RATING
+--------------------------------------------------
+
+
+RECOVERED ORDER DATE
+--------------------------------------------------
+Row 493:
+  Orig: - -> V2: May 11, 2023
+Row 115:
+  Orig: - -> V2: December 23, 2022
+Row 1179:
+  Orig: - -> V2: May 28, 2024
+Row 1051:
+  Orig: - -> V2: September 7, 2023
+Row 961:
+  Orig: - -> V2: August 30, 2023
+Row 611:
+  Orig: - -> V2: June 2, 2023
+Row 454:
+  Orig: - -> V2: May 3, 2023
+Row 386:
+  Orig: - -> V2: April 16, 2023
+Row 1804:
+  Orig: - -> V2: June 19, 2026
+Row 144:
+  Orig: - -> V2: February 21, 2023
+Row 136:
+  Orig: - -> V2: February 4, 2023
+Row 415:
+  Orig: - -> V2: April 22, 2023
+Row 942:
+  Orig: - -> V2: August 28, 2023
+Row 999:
+  Orig: - -> V2: September 3, 2023
+Row 2159:
+  Orig: - -> V2: August 7, 2026
+Row 122:
+  Orig: - -> V2: January 20, 2023
+Row 859:
+  Orig: - -> V2: August 9, 2023
+Row 1794:
+  Orig: - -> V2: June 19, 2026
+Row 949:
+  Orig: - -> V2: August 28, 2023
+Row 1920:
+  Orig: - -> V2: July 7, 2026
+
+
+SUPPORT REPLY CHANGES
+--------------------------------------------------
+Row 1921:
+  Orig: '-'... -> V2: "Hi Sarah,\nWe're so happy to hear you love the quality of your new light fixture!"...
+Row 1543:
+  Orig: 'Thank you for your feedback! We sincerely apologize for the inconvenience regard'... -> V2: 'Hi Candi,\nThank you for your feedback! We sincerely apologize for the inconvenie'...
+Row 2183:
+  Orig: 'We sincerely apologize for the inconvenience regarding the rug pad. We can see t'... -> V2: 'Hi Lisa,\nThank you for your feedback. We sincerely apologize for the inconvenien'...
+Row 282:
+  Orig: '-'... -> V2: 'Hi Xanthi,\nThank you for reaching out. Sorry for the delays with your order. We '...
+Row 2120:
+  Orig: 'None'... -> V2: "Kanchana,\nWe're so happy to hear that you love the sofa and that our delivery se"...
+Row 2179:
+  Orig: '-'... -> V2: "Linda,\nWe're so happy to hear that your order arrived quickly and was well-packa"...
+Row 1404:
+  Orig: '-'... -> V2: "Hi Shalini,\nWe're happy to hear that you find our products well-designed, and of"...
+Row 2052:
+  Orig: '-'... -> V2: "Judith,\nWe're so happy to hear that you love your new desk and that it fits perf"...
+Row 1705:
+  Orig: '-'... -> V2: 'Jan,\nWe are so happy to hear you love the pillow and that it arrived quickly! Th'...
+Row 1612:
+  Orig: '-'... -> V2: "Hi there,\nWe're so happy to hear you love your linen napkins and candle holder! "...
+Row 1400:
+  Orig: '-'... -> V2: "Hi Kellie,\nWe're happy to hear that you were impressed with our delivery service"...
+Row 1472:
+  Orig: '-'... -> V2: 'Hi there,\nThank you for reaching out to us and sharing your positive experience!'...
+Row 2124:
+  Orig: '-'... -> V2: "Hi Landes,\nWe're so glad to hear that our Trade support, friendliness, helpfulne"...
+Row 1608:
+  Orig: '-'... -> V2: "Hi Aaron,\nWe're so glad you had an easy ordering, and delivery experience. We ap"...
+Row 1338:
+  Orig: '-'... -> V2: "Kate Roberts,\nWe're happy to hear that your delivery experience was quick and ea"...
+Row 1326:
+  Orig: '-'... -> V2: "S J,\nWe're happy to hear that you received your beautiful item with great delive"...
+Row 1659:
+  Orig: '-'... -> V2: "Hi Dianne,\nWe're glad to hear that our return process, and customer service met "...
+Row 1333:
+  Orig: '-'... -> V2: "Jordan Ciuro,\nWe're happy you had a great experience! It means a lot to us that "...
+Row 1634:
+  Orig: '-'... -> V2: 'Kate,\nWe are so pleased to hear our team was able to assist with the chandelier '...
+Row 1617:
+  Orig: 'Thank you for your feedback. We’re very sorry to hear that your delivery experie'... -> V2: 'Thank you for your feedback. We’re very sorry to hear that your delivery experie'...
+
+
+REPLY DATE CHANGES
+--------------------------------------------------
+Row 2091:
+  Orig: - -> V2: Aug 3, 2026
+Row 1370:
+  Orig: - -> V2: Apr 23, 2026
+Row 315:
+  Orig: - -> V2: Apr 7, 2023
+Row 1781:
+  Orig: - -> V2: Jun 23, 2026
+Row 1946:
+  Orig: - -> V2: Jul 21, 2026
+Row 937:
+  Orig: - -> V2: Sep 5, 2023
+Row 1610:
+  Orig: - -> V2: Jun 1, 2026
+Row 610:
+  Orig: - -> V2: Jun 8, 2023
+Row 1979:
+  Orig: - -> V2: Aug 4, 2026
+Row 1431:
+  Orig: - -> V2: May 19, 2026
+Row 2143:
+  Orig: - -> V2: Aug 11, 2026
+Row 2121:
+  Orig: - -> V2: Aug 17, 2026
+Row 1574:
+  Orig: - -> V2: May 27, 2026
+Row 2035:
+  Orig: - -> V2: Aug 4, 2026
+Row 1197:
+  Orig: - -> V2: Aug 5, 2024
+Row 531:
+  Orig: - -> V2: May 30, 2023
+Row 328:
+  Orig: - -> V2: Apr 20, 2023
+Row 1290:
+  Orig: - -> V2: Apr 22, 2026
+Row 1423:
+  Orig: - -> V2: Jul 6, 2026
+Row 620:
+  Orig: - -> V2: Jun 14, 2023
+
+
+RAW TEXT DISCREPANCIES
+--------------------------------------------------
+Row 887:
+  Orig: 'The bed was delivered promptly and professionally. Looks amazing. What a sturdy '... -> V2: 'Looks Great in our bedroom\nThe bed was delivered promptly and professionally. Lo'...
+Row 341:
+  Orig: 'Delivery was delayed because of weather conditions but the wait was worth it . T'... -> V2: 'Gorgeous rug . As expected with …\nDelivery was delayed because of weather condit'...
+Row 1378:
+  Orig: 'Delivery was seamless and rug is gorgeous. Quality exceeded price point.'... -> V2: 'Delivery was seamless and rug is…\nDelivery was seamless and rug is gorgeous. Qua'...
+Row 1033:
+  Orig: 'Ordered two beautiful lamps, one came defected and the team, Emily specifically,'... -> V2: 'Great customer care\nOrdered two beautiful lamps, one came defected and the team,'...
+Row 1646:
+  Orig: 'My delivery arrived damaged and have email customer support 2x and still have no'... -> V2: 'My delivery arrived damaged and have…\nMy delivery arrived damaged and have email'...
+Row 1325:
+  Orig: 'Shipping with this company is horrendous! Took weeks to schedule my delivery and'... -> V2: 'Shipping with this company is…\nShipping with this company is horrendous! Took we'...
+Row 638:
+  Orig: 'This rug is beautiful and feels great on feet! So far seems very well made. We a'... -> V2: 'This rug is beautiful and feels great…\nThis rug is beautiful and feels great on '...
+Row 1345:
+  Orig: 'I’ve had a horrible time with customer service. There is no phone number and the'... -> V2: 'Horrible customer service\nI’ve had a horrible time with customer service. There '...
+Row 1282:
+  Orig: 'Staff was able to help me coordinate a wallpaper and curtain combo'... -> V2: 'Staff was able to help me coordinate a…\nStaff was able to help me coordinate a w'...
+Row 798:
+  Orig: 'Product was clearly over promoted. very poorly made with poorly cut wood and glu'... -> V2: 'Some products not up to standards\nProduct was clearly over promoted. very poorly'...
+Row 997:
+  Orig: 'I love how the mirror was shipped fast and arrived on time. Was so excited to ge'... -> V2: 'Elegant Mirror\nI love how the mirror was shipped fast and arrived on time. Was s'...
+Row 235:
+  Orig: 'I received my order yesterday. It had been back ordered for 6 months but they ke'... -> V2: 'Beautiful Furniture\nI received my order yesterday. It had been back ordered for '...
+Row 673:
+  Orig: 'Item was just like shown in the picture. Snippy was fast'... -> V2: 'Item was just like shown in the…\nItem was just like shown in the picture. Snippy'...
+Row 1961:
+  Orig: 'My chair shipped quickly and arrived just as described. It’s beautiful in person'... -> V2: 'My chair shipped quickly and arrived…\nMy chair shipped quickly and arrived just '...
+Row 924:
+  Orig: 'While a pretty vessel, it doesn’t actually hold water. Don’t plan on using it fo'... -> V2: 'Vase doesn’t hold water\nWhile a pretty vessel, it doesn’t actually hold water. D'...
+Row 639:
+  Orig: 'Lulu and Georgia maintained contact with me from the time of purchase until my m'... -> V2: 'My diaspora.\nLulu and Georgia maintained contact with me from the time of purcha'...
+Row 1682:
+  Orig: 'They were able to fix any issues I was having with the product.'... -> V2: 'They were able to fix any issues I was…\nThey were able to fix any issues I was h'...
+Row 1373:
+  Orig: 'Once we made contact with Kelly V customer service has been fantastic. She was e'... -> V2: 'Once we made contact with Kelly V customer service has been fantastic. She was e'...
+Row 1005:
+  Orig: 'I received a broken dresser over a month ago and I still haven’t received suppor'... -> V2: 'I received a broken dresser over a…\nI received a broken dresser over a month ago'...
+Row 2046:
+  Orig: 'We ordered a rug and it’s already fraying with several loose threads despite fol'... -> V2: 'Poor quality\nWe ordered a rug and it’s already fraying with several loose thread'...
+
+
+REVIEW DATE TRUE DISCREPANCIES
+--------------------------------------------------
+Row 587:
+  Orig: 2023-05-29 00:00:00 -> V2: Jun 13, 2023
+Row 1685:
+  Orig: 2026-06-01 00:00:00 -> V2: Updated Jun 15, 2026
+Row 813:
+  Orig: 2023-07-30 00:00:00 -> V2: Aug 15, 2023
+Row 2058:
+  Orig: 2026-07-23 00:00:00 -> V2: Aug 10, 2026
+Row 1881:
+  Orig: 2026-07-01 00:00:00 -> V2: Jul 8, 2026
+Row 1897:
+  Orig: 2026-07-05 00:00:00 -> V2: Jul 13, 2026
+Row 207:
+  Orig: 2023-03-18 00:00:00 -> V2: Apr 1, 2023
+Row 608:
+  Orig: 2023-06-01 00:00:00 -> V2: Nov 6, 2023
+Row 2011:
+  Orig: 2026-07-16 00:00:00 -> V2: Jul 29, 2026
+Row 153:
+  Orig: 2023-03-01 00:00:00 -> V2: Mar 2, 2023
+Row 1966:
+  Orig: 2026-07-10 00:00:00 -> V2: Jul 16, 2026
+Row 793:
+  Orig: 2023-07-25 00:00:00 -> V2: Aug 2, 2023
+Row 977:
+  Orig: 2023-09-01 00:00:00 -> V2: Sep 16, 2023
+Row 693:
+  Orig: 2023-06-30 00:00:00 -> V2: Jul 7, 2023
+Row 236:
+  Orig: 2023-03-21 00:00:00 -> V2: Mar 28, 2023
+Row 568:
+  Orig: 2023-05-26 00:00:00 -> V2: Jun 2, 2023
+Row 1417:
+  Orig: 2026-05-04 00:00:00 -> V2: May 18, 2026
+Row 2134:
+  Orig: 2026-08-04 00:00:00 -> V2: Aug 10, 2026
+Row 1762:
+  Orig: 2026-06-13 00:00:00 -> V2: Jun 16, 2026
+Row 791:
+  Orig: 2023-07-25 00:00:00 -> V2: Aug 9, 2023
+
+
+CLEAN PERFECT MATCHES
+--------------------------------------------------
+Row 1079:
+  Status: VERIFIED
+Row 1387:
+  Status: VERIFIED
+Row 1257:
+  Status: VERIFIED
+Row 1236:
+  Status: VERIFIED
+Row 1669:
+  Status: VERIFIED
+Row 1622:
+  Status: VERIFIED
+Row 596:
+  Status: VERIFIED
+Row 1080:
+  Status: VERIFIED
+Row 71:
+  Status: VERIFIED
+Row 1538:
+  Status: VERIFIED
+
+
+IDENTITY UNVERIFIED
+--------------------------------------------------
+Row 1996:
+  Status: IDENTITY_UNVERIFIED
+Row 1280:
+  Status: IDENTITY_UNVERIFIED
+Row 2056:
+  Status: IDENTITY_UNVERIFIED
+Row 291:
+  Status: IDENTITY_UNVERIFIED
+Row 1360:
+  Status: IDENTITY_UNVERIFIED
+Row 801:
+  Status: IDENTITY_UNVERIFIED
+Row 1959:
+  Status: IDENTITY_UNVERIFIED
+Row 619:
+  Status: IDENTITY_UNVERIFIED
+Row 452:
+  Status: IDENTITY_UNVERIFIED
+Row 272:
+  Status: IDENTITY_UNVERIFIED
+
+
+RATE LIMITED
+--------------------------------------------------
+Row 268:
+  Status: RATE_LIMITED_OR_BLOCKED
+Row 1349:
+  Status: RATE_LIMITED_OR_BLOCKED
+Row 1329:
+  Status: RATE_LIMITED_OR_BLOCKED
+Row 118:
+  Status: RATE_LIMITED_OR_BLOCKED
+Row 69:
+  Status: RATE_LIMITED_OR_BLOCKED
+Row 259:
+  Status: RATE_LIMITED_OR_BLOCKED
+Row 327:
+  Status: RATE_LIMITED_OR_BLOCKED
+Row 335:
+  Status: RATE_LIMITED_OR_BLOCKED
+Row 1198:
+  Status: RATE_LIMITED_OR_BLOCKED
+Row 114:
+  Status: RATE_LIMITED_OR_BLOCKED
+
